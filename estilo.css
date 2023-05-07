@@ -1,0 +1,529 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #efeff5;
+}
+
+
+header .topo h3{
+position: absolute;
+width: 300px;
+height: 38px;
+left: 100px;
+top: 50px;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 38px;
+letter-spacing: 0.75px;
+color: #474747;
+
+
+}
+
+
+header .topo1 h3{
+
+position: absolute;
+width: 88px;
+height: 34px;
+left: 1250px;
+top: 60px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+letter-spacing: 0.75px;
+color: #C92071;
+cursor: pointer;
+}
+
+header .topo1 img{
+
+    position: absolute;
+    left: 1340px;
+    right: 16px;
+    top: 70px;
+    bottom: 31,25%;
+    cursor: pointer;
+   
+
+}
+
+#tenis .colecao img {
+
+box-sizing: border-box;
+position: absolute;
+width: 292px;
+height: 321px;
+left: 100px;
+top: 100px;
+background: #FFFFFF;
+box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+border-radius: 4px;
+
+}
+
+#tenis .colecao h4{
+
+position: absolute;
+width: 283px;
+height: 38px;
+left: 100px;
+top: 450px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+letter-spacing: 0.75px;
+color: #474747;
+}
+
+#tenis .colecao p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 177px;
+    top: 480px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+
+}
+
+#tenis .desconto{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 103px;
+    top: 480px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #8F8F8F;
+    text-decoration: line-through;
+
+}
+
+#tenis .conteudo-produto h5{
+
+width: 66px;
+height: 22px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0.75px;   
+color: #474747;
+flex: none;
+order: 0;
+flex-grow: 0;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5px 15px;
+gap: 10px;
+position: absolute;
+width: 96px;
+height: 32px;
+left: 120px;
+top: 140px;
+background: #E7FF86;
+border-radius: 29px;
+
+}
+
+#tenis1 .colecao1 img{
+
+box-sizing: border-box;
+position: absolute;
+width: 292px;
+height: 321px;
+left: 416px;
+top: 100px;
+background: #FFFFFF;
+box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+border-radius: 4px;
+
+}
+
+#tenis1 .colecao1 h4{
+
+    position: absolute;
+    white-space: nowrap;
+    width: 63px;
+    height: 38px;
+    left: 415px;
+    top: 450px; 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 50px;
+    letter-spacing: 0.75px;
+    color: #474747
+    
+
+}
+
+#tenis1 .colecao1 p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 493px;
+    top: 485px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+
+}
+
+#tenis1 .desconto{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 400px;
+    top: 485px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #8F8F8F;
+    text-decoration: line-through;
+
+}
+
+#tenis1 .conteudo-produto h5{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 15px;
+    gap: 10px;
+    position: absolute;
+    width: 96px;
+    height: 32px;
+    left: 436px;
+    top: 140px;
+    background: #E7FF86;
+    border-radius: 29px;
+
+}
+
+#tenis1 .colecao2 img{
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 292px;
+    height: 321px;
+    left: 732px;
+    top: 100px;
+    background: #FFFFFF;
+    box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+    border-radius: 4px;
+
+}
+
+#tenis1 .colecao2 h4{
+
+    position: absolute;
+    width: 283px;
+    height: 38px;
+    left: 732px;
+    top: 450px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #474747;
+
+}
+
+#tenis1 .colecao2 p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 809px;
+    top: 480px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+    
+
+}
+
+#tenis1 .colecao3 img{
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 292px;
+    height: 321px;
+    left: 1048px;
+    top: 100px;
+    background: #FFFFFF;
+    box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+    border-radius: 4px;
+
+}
+
+#tenis1 .colecao3 h4{
+
+    position: absolute;
+    width: 283px;
+    height: 38px;
+    left: 1048px;
+    top: 450px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #474747;
+
+}
+
+#tenis1 .colecao3 p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 1125px;
+    top: 480px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+
+}
+
+#tenis2 .colecao4 img{
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 292px;
+    height: 321px;
+    left: 100px;
+    top: 580px;
+    background: #FFFFFF;
+    box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+    border-radius: 4px;
+
+}
+
+
+#tenis2 .colecao4 h4{
+
+    position: absolute;
+    width: 283px;
+    height: 38px;
+    left: 100px;
+    top: 935px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #474747;
+
+}
+
+#tenis2 .colecao4 p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 177px;
+    top: 965px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+
+}
+
+#tenis2 .colecao5 img{
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 292px;
+    height: 321px;
+    left: 415px;
+    top: 580px;
+    background: #FFFFFF;
+    box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+    border-radius: 4px;
+
+}
+
+#tenis2 .colecao5 h4{
+
+    position: absolute;
+    width: 283px;
+    height: 38px;
+    left: 415px;
+    top: 935px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #474747;
+
+}
+
+#tenis2 .colecao5 p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 500px;
+    top: 965px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+
+}
+
+#tenis2 .colecao6 img{
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 292px;
+    height: 321px;
+    left: 730px;
+    top: 580px;
+    background: #FFFFFF;
+    box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+    border-radius: 4px;
+
+}
+
+#tenis2 .colecao6 h4{
+
+    position: absolute;
+    width: 283px;
+    height: 38px;
+    left: 730px;
+    top: 935px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #474747;
+
+}
+
+#tenis2 .colecao6 p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 810px;
+    top: 965px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+
+}
+
+#tenis2 .colecao7 img{
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 292px;
+    height: 321px;
+    left: 1045px;
+    top: 580px;
+    background: #FFFFFF;
+    box-shadow: 6px 16px 30px rgba(105, 98, 98, 0.05);
+    border-radius: 4px;
+
+}
+
+#tenis2 .colecao7 h4{
+
+    position: absolute;
+    width: 283px;
+    height: 38px;
+    left: 1045px;
+    top: 935px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #474747;
+
+}
+
+#tenis2 .colecao7 p{
+
+    position: absolute;
+    width: 63px;
+    height: 38px;
+    left: 1130px;
+    top: 965px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+
+}
+
